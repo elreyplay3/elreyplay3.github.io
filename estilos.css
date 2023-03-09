@@ -3,3 +3,9 @@ body {
      background-repeat: repeat;
      background-size: cover;
     }
+#boton {
+	 margin: 20px;
+	 padding: 20px;
+	 font-size: 15px;
+	 color: green;
+}
